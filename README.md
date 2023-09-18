@@ -1,5 +1,4 @@
 # CGQC_template
-Mission template
 
 Comme toujours Ouvrez le fichier:
 ---------------------
